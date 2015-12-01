@@ -29,12 +29,20 @@ and branches help to make this changes safe.
 How do the diagrams help you visualize the branch structure?
 
 It shows how the different commits were conected, or the branchens
-. It helps because we can see how we can move between the different
+.It helps because we can see how we can move between the different
 verstion or part of the project.
 
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Mergint together two branches result in the addition of the new
+lines a removal of the repeated ones on the code. It is very useful,
+othewise we would have to do it manualy, and is illogical to make
+a program a not automate this very act of making a program.
+
+
+
+
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
