@@ -15,6 +15,10 @@ files.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Because is very usefull for debugging and analysing files using the diff options. You can change and unchange the files without fearing that your
+changes are going to be permanent.
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
