@@ -41,8 +41,10 @@ othewise we would have to do it manualy, and is illogical to make
 a program a not automate this very act of making a program.
 
 
+What are the pros and cons of Git’s automatic merging vs. always 
+doing merges manually?
 
-
-
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+It has the same comflic of all automitations, and this is that
+it doesn have the intelligence of the human writing the code,
+and also doen't know what the programmers wants. But in simple
+task that can become many, it can resolve them very quickly.
