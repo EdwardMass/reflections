@@ -28,6 +28,11 @@ and branches help to make this changes safe.
 
 How do the diagrams help you visualize the branch structure?
 
+It shows how the different commits were conected, or the branchens
+. It helps because we can see how we can move between the different
+verstion or part of the project.
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
