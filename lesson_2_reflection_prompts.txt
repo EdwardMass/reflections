@@ -19,8 +19,12 @@ Because is very usefull for debugging and analysing files using the diff options
 changes are going to be permanent.
 
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+this is very usefull to make important changes to the code
+or for creating something completely new with the exiting code,
+and branches help to make this changes safe.
+
 
 How do the diagrams help you visualize the branch structure?
 
