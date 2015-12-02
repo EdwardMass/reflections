@@ -21,3 +21,9 @@ repocitory on our computers, from the web.
 Branches are a way of making a copy of an existing repocitories
 to work independetly before merging it with the original, or master.
 
+What is the benefit of having a copy of the last known
+state of the remote stored locally?
+
+Because you then can compared with the changes made
+with the git fetch on the remote online with our
+local master.
