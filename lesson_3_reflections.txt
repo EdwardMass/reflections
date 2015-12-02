@@ -27,3 +27,13 @@ state of the remote stored locally?
 Because you then can compared with the changes made
 with the git fetch on the remote online with our
 local master.
+
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+
+I guess the collaboration would be only comparing code,
+maybe we can be better in spoting bugs or understanding
+code, our own and of others. But this is definetly better
+I dont really know how people can manage without a system
+like this.
